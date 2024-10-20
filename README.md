@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/focusing.gif" width="400" />
+      <img src="./images/focusing.gif" width="360" />
     </td>
     <td align="center">
-      <img src="./images/streching.gif" width="400" />
+      <img src="./images/streching.gif" width="360" />
     </td>
   </tr>
 </table>
@@ -26,8 +26,8 @@
 <br>
 <p>In your spare time, cook some buns and tea for them to enjoy :) The travel system for items uses own spline system. </p>
 <div>
-  <img src="./images/cooking.gif" height="420"/>
-  <img src="./images/splines-level.png" height="420"/>
+  <img src="./images/cooking.gif" height="400"/>
+  <img src="./images/splines-level.png" height="400"/>
 </div>
 
 <br>
